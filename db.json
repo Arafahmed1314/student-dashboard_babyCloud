@@ -1,0 +1,138 @@
+{
+  "students": [
+    {
+      "id": "STU-002",
+      "name": "Emma Johnson",
+      "email": "emma.johnson@example.com",
+      "course": "Data Science",
+      "enrollmentDate": "September 5, 2023"
+    },
+    {
+      "id": "STU-003",
+      "name": "Michael Brown",
+      "email": "michael.brown@example.com",
+      "course": "Web Development",
+      "enrollmentDate": "August 15, 2023",
+      "progress": 65
+    },
+    {
+      "id": "STU-004",
+      "name": "Sophia Daviss",
+      "email": "sophia.davis@example.com",
+      "course": "UX Design",
+      "enrollmentDate": "September 10, 2023"
+    },
+    {
+      "id": "STU-005",
+      "name": "Daniel Wilson",
+      "email": "daniel.wilson@example.com",
+      "course": "Mobile Development",
+      "enrollmentDate": "July 20, 2023",
+      "progress": 88
+    },
+    {
+      "id": "STU-006",
+      "name": "Olivia Martinez",
+      "email": "olivia.martinez@example.com",
+      "course": "Digital Marketing",
+      "enrollmentDate": "August 25, 2023",
+      "progress": 71
+    },
+    {
+      "id": "STU-007",
+      "name": "William Taylor",
+      "email": "william.taylor@example.com",
+      "course": "Artificial Intelligence",
+      "enrollmentDate": "September 3, 2023",
+      "progress": 82
+    },
+    {
+      "id": "STU-008",
+      "name": "Isabella Anderson",
+      "email": "isabella.anderson@example.com",
+      "course": "Cybersecurity",
+      "enrollmentDate": "July 30, 2023",
+      "progress": 69
+    },
+    {
+      "id": "STU-009",
+      "name": "James Thomas",
+      "email": "james.thomas@example.com",
+      "course": "Cloud Computing",
+      "enrollmentDate": "August 10, 2023",
+      "progress": 73
+    },
+    {
+      "id": "STU-010",
+      "name": "Mia Moore",
+      "email": "mia.moore@example.com",
+      "course": "Game Development",
+      "enrollmentDate": "September 12, 2023",
+      "progress": 55
+    },
+    {
+      "id": "STU-011",
+      "name": "Alexander Lee",
+      "email": "alexander.lee@example.com",
+      "course": "DevOps Engineering",
+      "enrollmentDate": "August 18, 2023",
+      "progress": 61
+    },
+    {
+      "id": "STU-012",
+      "name": "Charlotte Harris",
+      "email": "charlotte.harris@example.com",
+      "course": "Data Analytics",
+      "enrollmentDate": "September 8, 2023",
+      "progress": 79
+    },
+    {
+      "id": "STU-013",
+      "name": "Benjamin Clark",
+      "email": "benjamin.clark@example.com",
+      "course": "Software Engineering",
+      "enrollmentDate": "July 15, 2023",
+      "progress": 87
+    },
+    {
+      "id": "STU-014",
+      "name": "Amelia Lewis",
+      "email": "amelia.lewis@example.com",
+      "course": "UI Engineering",
+      "enrollmentDate": "August 28, 2023",
+      "progress": 66
+    },
+    {
+      "id": "STU-015",
+      "name": "Henry Walker",
+      "email": "henry.walker@example.com",
+      "course": "Machine Learning",
+      "enrollmentDate": "September 6, 2023",
+      "progress": 91
+    },
+    {
+      "id": "STU-016",
+      "name": "Evelyn Hall",
+      "email": "evelyn.hall@example.com",
+      "course": "Database Administration",
+      "enrollmentDate": "August 12, 2023",
+      "progress": 74
+    },
+    {
+      "id": "STU-017",
+      "name": "Logan Allen",
+      "email": "logan.allen@example.com",
+      "course": "Systems Analysis",
+      "enrollmentDate": "September 2, 2023",
+      "progress": 59
+    },
+    {
+      "studentId": "stu-001",
+      "name": "araf ahmed",
+      "email": "nayem@gmail.com",
+      "course": "Computer Science",
+      "enrollmentDate": "2025-05-10",
+      "id": "stu-001"
+    }
+  ]
+}
