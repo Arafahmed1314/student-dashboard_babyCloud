@@ -97,17 +97,26 @@ Edit
 Start the JSON server in a separate terminal:
 
 bash
-Copy
-Edit
 npx json-server --watch db.json --port 3000
 
 ▶️ Running the App
 Start the Vite development server:
-
 bash
-Copy
-Edit
 npm run dev
 # OR
 yarn dev
 Visit: http://localhost:5173
+
+#file stacture
+student-management-dashboard/
+├── public/
+├── src/
+│   ├── components/
+│   ├── context/
+│   ├── pages/
+│   ├── firebase.js
+│   └── App.jsx
+├── db.json
+├── tailwind.config.js
+├── vite.config.js
+└── README.md
